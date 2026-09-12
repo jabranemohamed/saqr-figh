@@ -1,0 +1,17 @@
+{
+  "name": "Saqr Fight Club",
+  "short_name": "Saqr",
+  "description": "Kampfsportschule in München-Neuhausen — Kickboxen, Muay Thai, K1, Karate und MMA.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080807",
+  "theme_color": "#080807",
+  "lang": "de",
+  "dir": "ltr",
+  "icons": [
+    { "src": "assets/img/favicon.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "assets/img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
